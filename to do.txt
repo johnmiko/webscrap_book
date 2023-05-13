@@ -1,0 +1,5 @@
+FindBook
+    iterate over the websites and see if any have the book?
+    Would need to search for just the name and figure out the number somehow
+
+Just trying going to next page, on error assume last page was reached
